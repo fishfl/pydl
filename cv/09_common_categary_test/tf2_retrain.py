@@ -1,5 +1,5 @@
 
-# python tf2_retrain.py --image_dir D:\dataset\porn_verify --output_graph D:\models\porn_verify\output_graph.pb --output_labels  D:\models\porn_verify\output_labels.txt --summaries_dir D:\models\porn_verify\retrain_logs --how_many_training_steps 5000 --model_dir D:\models\porn_verify\raw --bottleneck_dir D:\models\porn_verify\bottleneck
+# python tf2_retrain.py --image_dir D:\dataset\ad_verify --output_graph D:\models\ad_verify\output_graph.pb --output_labels  D:\models\ad_verify\output_labels.txt --summaries_dir D:\models\ad_verify\retrain_logs --how_many_training_steps 5000 --model_dir D:\models\ad_verify\raw --bottleneck_dir D:\models\ad_verify\bottleneck
 
 # Copyright 2015 The TensorFlow Authors. All Rights Reserved.
 #

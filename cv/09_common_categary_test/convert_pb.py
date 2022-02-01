@@ -4,8 +4,8 @@ from tensorflow.python.saved_model import tag_constants
 import tensorflow as tf
 tf = tf.compat.v1
 
-export_dir = 'D:\\models\\porn_verify\\out\\1'
-graph_pb = 'D:\\models\\porn_verify\\output_graph.pb'
+export_dir = 'D:\\models\\ad_verify\\out\\1'
+graph_pb = 'D:\\models\\ad_verify\\output_graph.pb'
 
 builder = tf.saved_model.builder.SavedModelBuilder(export_dir)
 

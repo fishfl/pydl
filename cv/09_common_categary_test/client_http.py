@@ -30,14 +30,14 @@ def read_byte(file):
     img = np.array(i)
     return img
 
-i = image_bytes("D:\\test\\4.jpg")
+i = image_bytes("D:\\5.jpg")
 
 # data = '{"signature_name": "serving_default", "instances": [{"b64": "%s"}]}' % i   no work
 data = '{"signature_name": "serving_default", "inputs": {"in" : {"b64": "%s"}}}' % i
 # print(data)
 
 headers = {"content-type": "application/json"}
-json_response = requests.post('http://172.27.148.129:8501/v1/models/porn_verify:predict',
+json_response = requests.post('http://172.27.153.71:8501/v1/models/ad_verify:predict',
         data=data, headers=headers)
 
 predictions = json.loads(json_response.text)
