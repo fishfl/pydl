@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5d3607b-44e4-4b34-a6d7-a6a397be48a2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../09_common_categary_test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../09_common_categary_test/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../09_common_categary_test/client_http.py" beforeDir="false" afterPath="$PROJECT_DIR$/../09_common_categary_test/client_http.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../09_common_categary_test/convert_pb.py" beforeDir="false" afterPath="$PROJECT_DIR$/../09_common_categary_test/convert_pb.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../09_common_categary_test/tf2_retrain.py" beforeDir="false" afterPath="$PROJECT_DIR$/../09_common_categary_test/tf2_retrain.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/15_对象检测.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/15_对象检测.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -245,9 +238,6 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
