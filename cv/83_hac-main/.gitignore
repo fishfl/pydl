@@ -1,0 +1,8 @@
+*__pycache__*
+data/
+test.py
+*.ipynb_checkpoints*
+analysis/
+*~
+docs/build
+*.bak

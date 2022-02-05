@@ -44,7 +44,7 @@
 
 81_openpose 成熟的系统，包括2d和3d，身体姿势识别、手部识别、脸部识别，系统配置要求较高，只包含了readme，详见官网
 82_kalidokit-main   Facemesh, Blazepose, Handpose, and Holistic 集成脸部、身体、手的形态检测，驱动卡通人物运动等。基于tf-js或holistic。JS版本的，可以用来生成vtuber
-
+83_hac-main pytorch 动作检测，控制鼠标
 
 91_人脸识别
 使用opencv实现人脸识别：detectMultiScale
