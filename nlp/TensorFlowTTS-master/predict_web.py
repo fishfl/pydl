@@ -1,3 +1,5 @@
+import sys
+sys.path.insert(0, "/root/TensorFlowTTS/tensorflow_tts/")
 import tensorflow as tf
 import numpy as np
 import matplotlib.pyplot as plt

@@ -1,8 +1,9 @@
-FROM fishfl/sys_base:v9
+FROM fishfl/sys_base:v10
 
 COPY . /root/TensorFlowTTS
 RUN mv /root/TensorFlowTTS/nltk_data /root/nltk_data
-RUN apt-get install libsndfile1 -y
+RUN apt-get update && \
+    apt-get install libsndfile1 -y
 
 RUN cd /root/TensorFlowTTS&& \
     source activate py38 && \
@@ -11,5 +12,5 @@ RUN cd /root/TensorFlowTTS&& \
     pip3 install flask
 
 CMD cd /root/TensorFlowTTS/ && \
-    source activate py38 && \
+    source /opt/conda/bin/activate py38 && \
     python3 predict_web.py

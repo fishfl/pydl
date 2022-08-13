@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>5680b921707bfe3a7a52d45fe1f2f4fe.jpeg</filename>
+	<path>D:\codebase\pydl\cv\21_object_detection\02_tf2_od_coco_finetune\images\train\5680b921707bfe3a7a52d45fe1f2f4fe.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>242</xmin>
+			<ymin>506</ymin>
+			<xmax>437</xmax>
+			<ymax>684</ymax>
+		</bndbox>
+	</object>
+</annotation>

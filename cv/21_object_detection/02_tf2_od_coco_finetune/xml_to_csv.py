@@ -26,10 +26,10 @@ def xml_to_csv(path):
 
 
 def main():
-    image_path = os.path.join(os.getcwd(), 'img_xml/eval')
+    image_path = os.path.join(os.getcwd(), 'images/train')
     xml_df = xml_to_csv(image_path)
-    xml_df.to_csv('img_csv/hsrw_eval_labels.csv', index=None)
-    print('Successfully converted xml to csv.')
+    xml_df.to_csv('img_csv/cat_train_labels.csv', index=None)
+    print('Successfully converted xml python generate_tfrecord.py --csv_input=img_csv/cat_train_labels.csv --images_input=images/train --output_path=tfrecord/train/cat.record --label_map_path=training/cat_label_map.pbtxtto csv.')
 
 
 if __name__ == '__main__':

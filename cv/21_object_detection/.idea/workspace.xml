@@ -2,7 +2,76 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5d3607b-44e4-4b34-a6d7-a6a397be48a2" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/02_tf2_od_coco_finetune/images/eval/test.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_tf2_od_coco_finetune/images/train/08d44fa17e594c4ea4e1135f49d62111.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_tf2_od_coco_finetune/images/train/12121212121.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_tf2_od_coco_finetune/images/train/136626a3c8e0ad4d64b12100ea1f58d3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_tf2_od_coco_finetune/images/train/136626a3c8e0ad4d64b13340ea1f58d3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_tf2_od_coco_finetune/images/train/164d9f0fc67894301118cdf3898d2b14.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_tf2_od_coco_finetune/images/train/1d19532a5de0f8165195fb260de65c82.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_tf2_od_coco_finetune/images/train/2432423423423432.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_tf2_od_coco_finetune/images/train/2a260a5c9666b5a31fc171ad200ec173.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_tf2_od_coco_finetune/images/train/2f80834b1638332d4c0b030b9de318ed.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_tf2_od_coco_finetune/images/train/320ab8946e96008f5463a895dcc9d90d.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_tf2_od_coco_finetune/images/train/325f6cdaf39a35095418d36fdfbad0b0.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_tf2_od_coco_finetune/images/train/342342.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_tf2_od_coco_finetune/images/train/34343243423.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_tf2_od_coco_finetune/images/train/42e7bd264d2cfe5d7bbfd8c3d5d20af4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_tf2_od_coco_finetune/images/train/48d024616fb291e1c01a40a263dc3339.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_tf2_od_coco_finetune/images/train/5680b921707bfe3a7a52d45fe1f2f4fe.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_tf2_od_coco_finetune/images/train/5722cd56ce2a7e0144a555cd455adf96.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_tf2_od_coco_finetune/images/train/6323dea5bc0c9e35ec294028959757d7.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_tf2_od_coco_finetune/images/train/694013930c95b91823b2b3de1a59697b.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_tf2_od_coco_finetune/images/train/7dd8b18940811a6dc3afa575b2b03e73.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_tf2_od_coco_finetune/images/train/852a0c86555c2976f35ba3668c5a4e97.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_tf2_od_coco_finetune/images/train/883787d5a188f2116b23be6e318ccfb9.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_tf2_od_coco_finetune/images/train/8e7ea4f40612f68551c4680db593f1a8.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_tf2_od_coco_finetune/images/train/a49a1c1e23287e3d82b4aa79b91f5927.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_tf2_od_coco_finetune/images/train/a5d7911176dab39b756076ccd972a348.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_tf2_od_coco_finetune/images/train/a6ca8629114e993614397012efcda72c.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_tf2_od_coco_finetune/images/train/a7c411c0d558c0193659c48874e934be.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_tf2_od_coco_finetune/images/train/abea58bc5ed4f19ce8705159bde8f25c.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_tf2_od_coco_finetune/images/train/bc8a96e91b7331a1a419ee96fd472d40.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_tf2_od_coco_finetune/images/train/be2307941ac62d45abdf43d2ee56e5f7.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_tf2_od_coco_finetune/images/train/beda43d1d4094174c24e892ffdf5b563.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_tf2_od_coco_finetune/images/train/bef1b18700d6db3738c8b068658d5fda.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_tf2_od_coco_finetune/images/train/c12028be2e5383c3b6dd75ecb0913dbb.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_tf2_od_coco_finetune/images/train/c174a31592025ed439fce9d7e2e84ac2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_tf2_od_coco_finetune/images/train/c473a84939e3f8ecc7843f4afff3ce8c.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_tf2_od_coco_finetune/images/train/c9fb1b688f69f9580cb3d517e642f772.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_tf2_od_coco_finetune/images/train/cdf024ac4e641bc2c2e35f4dc07f1338.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_tf2_od_coco_finetune/images/train/d14c8622614da09a67f98bea4fca32cf.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_tf2_od_coco_finetune/images/train/ddf028e9477e36734d1bf5db9018f7aa.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_tf2_od_coco_finetune/images/train/e574179baa3590242afde4824dde47ab.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_tf2_od_coco_finetune/images/train/ef9c6005a61adccc900d5097d81e721a.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_tf2_od_coco_finetune/images/train/fa4215009252b54369c8bccf70a96661.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_common_categary_test/.idea/common_categary_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../09_common_categary_test/.idea/common_categary_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_common_categary_test/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../09_common_categary_test/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_common_categary_test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../09_common_categary_test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_common_categary_test/client_http.py" beforeDir="false" afterPath="$PROJECT_DIR$/../09_common_categary_test/client_http.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/15_对象检测.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/15_对象检测.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_tf2_od_coco_finetune/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/02_tf2_od_coco_finetune/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_tf2_od_coco_finetune/test_inference/run_inference_Capture_4_finetune_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_tf2_od_coco_finetune/test_inference/run_inference_Capture_4_finetune_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_tf2_od_coco_finetune/test_inference/test_images/test.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_tf2_od_coco_finetune/training/hsrw_label_map.pbtxt" beforeDir="false" afterPath="$PROJECT_DIR$/02_tf2_od_coco_finetune/training/cat_label_map.pbtxt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_tf2_od_coco_finetune/training/ssd_efficientdet_d0_512x512_coco17_tpu-8.config" beforeDir="false" afterPath="$PROJECT_DIR$/02_tf2_od_coco_finetune/training/ssd_efficientdet_d0_512x512_coco17_tpu-8.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_tf2_od_coco_finetune/xml_to_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_tf2_od_coco_finetune/xml_to_csv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_od_coco_client_http.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_od_coco_client_http.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_detection/model_main_tf2.py" beforeDir="false" afterPath="$PROJECT_DIR$/object_detection/model_main_tf2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据集/coco.txt" beforeDir="false" afterPath="$PROJECT_DIR$/数据集/coco.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../83_hac-main/web/pose_holistic_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/../83_hac-main/web/pose_holistic_client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../91_人脸识别/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../91_人脸识别/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../91_人脸识别/face_recognition-master/face_recognition_client1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../91_人脸识别/face_recognition-master/face_recognition_client1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../91_人脸识别/face_recognition-master/face_recognition_client2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../91_人脸识别/face_recognition-master/face_recognition_client2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../91_人脸识别/face_recognition-master/face_recognition_client3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../91_人脸识别/face_recognition-master/face_recognition_client3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../96_JoJoGAN-main/predict_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/../96_JoJoGAN-main/predict_client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nlp/MockingBird" beforeDir="false" afterPath="$PROJECT_DIR$/../../nlp/MockingBird" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../nlp/TensorFlowTTS-master/predict_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../nlp/TensorFlowTTS-master/predict_client.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +95,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -102,25 +179,27 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../09_common_categary_test" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\codebase\pydl\cv\21_object_detection\02_tf2_od_coco_finetune\images\eval" />
+      <recent name="D:\codebase\pydl\cv\21_object_detection\02_tf2_od_coco_finetune" />
       <recent name="D:\codebase\pydl\cv\21_object_detection" />
-      <recent name="$PROJECT_DIR$/02_tf2_od_coco_finetune" />
-      <recent name="$PROJECT_DIR$/02_tf2_od_coco_finetune/training" />
-      <recent name="$PROJECT_DIR$/02_tf2_od_coco_finetune/images" />
+      <recent name="D:\codebase\pydl\cv\21_object_detection\02_tf2_od_coco_finetune\test_inference\test_images" />
+      <recent name="D:\codebase\pydl\cv\21_object_detection\02_tf2_od_coco_finetune\images\train" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\codebase\pydl\cv\21_object_detection\02_tf2_od_coco_finetune\images\eval" />
+      <recent name="D:\codebase\pydl\cv\21_object_detection\02_tf2_od_coco_finetune\test_inference" />
+      <recent name="D:\codebase\pydl\cv\21_object_detection\02_tf2_od_coco_finetune\model" />
       <recent name="$PROJECT_DIR$/02_tf2_od_coco_finetune/test_inference/test_images" />
       <recent name="$PROJECT_DIR$/02_tf2_od_coco_finetune/test_interence" />
-      <recent name="$PROJECT_DIR$/02_tf2_od_coco_finetune/model" />
-      <recent name="$PROJECT_DIR$/02_tf2_od_coco_finetune/img_xml/eval" />
-      <recent name="$PROJECT_DIR$/02_tf2_od_coco_finetune/img_xml/train" />
     </key>
   </component>
   <component name="RunManager" selected="Python.03_od_coco_client_http">
@@ -137,6 +216,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_od_coco_client_http.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exist_gpu" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="15_对象检测" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_tf2_od_coco_finetune" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_tf2_od_coco_finetune/exist_gpu.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,10 +266,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="savedmodel2pb" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="15_对象检测" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_tf2_od_coco_finetune" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_tf2_od_coco_finetune/savedmodel2pb.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="trt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="15_对象检测" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_tf2_od_coco_finetune" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_tf2_od_coco_finetune/trt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.03_od_coco_client_http" />
+        <item itemvalue="Python.exist_gpu" />
         <item itemvalue="Python.run_inference_Capture_4_finetune_model" />
+        <item itemvalue="Python.savedmodel2pb" />
+        <item itemvalue="Python.trt" />
       </list>
     </recent_temporary>
   </component>
@@ -251,6 +396,16 @@
           <url>file://$PROJECT_DIR$/01_tf2_od_coco_inference&amp;Capture.py</url>
           <line>41</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/02_tf2_od_coco_finetune/test_inference/run_inference_Capture_4_finetune_model.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/02_tf2_od_coco_finetune/test_inference/run_inference_Capture_4_finetune_model.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

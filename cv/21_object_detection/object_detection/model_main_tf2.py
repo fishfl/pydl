@@ -77,6 +77,8 @@ def main(unused_argv):
   flags.mark_flag_as_required('model_dir')
   flags.mark_flag_as_required('pipeline_config_path')
   tf.config.set_soft_device_placement(True)
+  import os
+  os.environ['TF_FORCE_GPU_ALLOW_GROWTH'] = 'true'
 
   if FLAGS.checkpoint_dir:
     model_lib_v2.eval_continuously(

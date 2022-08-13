@@ -1,3 +1,5 @@
+import sys
+sys.path.insert(0, "/root/hac/pyhac/")
 from pyhac.tracker import HolisticTracker
 from PIL import Image
 import numpy as np

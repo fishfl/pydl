@@ -21,11 +21,11 @@ REQUIRED_PACKAGES = [
     'lvis',#colab need
     'scipy',
     'pandas',
-    'tf-models-official>=2.5.1',
-    'tensorflow_io',#colab need
+    'tf-models-official',
+    'tensorflow_io',#colapipb need
     # Workaround due to
     # https://github.com/keras-team/keras/issues/15583
-    'keras==2.6.0'
+    'keras'
 ]
 
 setup(

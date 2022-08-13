@@ -1,0 +1,26 @@
+<annotation>
+	<folder>eval</folder>
+	<filename>666.jpeg</filename>
+	<path>D:\codebase\pydl\cv\21_object_detection\02_tf2_od_coco_finetune\images\eval\666.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>658</width>
+		<height>653</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>190</xmin>
+			<ymin>49</ymin>
+			<xmax>508</xmax>
+			<ymax>599</ymax>
+		</bndbox>
+	</object>
+</annotation>
